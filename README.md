@@ -3,7 +3,12 @@
 
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"><a href="https://unity.com/" target="_blank"> <img src="https://docs.unity3d.com/Packages/com.unity.vectorgraphics@2.0/logo.svg" alt="Unity" height="40"/></a> <a href="#"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_C_sharp.svg/330px-Logo_C_sharp.svg.png" alt="C#" height="40"></a><a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" height="40"/></a></p>
+  <p align="left">
+    <a href="https://unity.com/" target="_blank"><img src="https://docs.unity3d.com/Packages/com.unity.vectorgraphics@2.0/logo.svg" alt="Unity" height="40"/></a><br />
+    <a href="https://learn.microsoft.com/en-us/dotnet/csharp/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_C_sharp.svg/330px-Logo_C_sharp.svg.png" alt="C#" height="40"></a><br />
+    <a href="https://yarnspinner.dev/"><img src="https://yarnspinner.dev//images/logo.png" alt="Yarn Spinner" height="40"></a><br />
+    <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" height="40"/></a>
+  </p>
 
 
 <!---
