@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm René.</h1>
-<h3 align="center">Hobby gamedev.</h3>
+<h3 align="center">Hobby gamedev and likes automating things with python.</h3>
 
 
 <h3 align="left">Languages and Tools:</h3>
